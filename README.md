@@ -26,3 +26,6 @@ wget https://...
 
 Run the installer as root:
 sudo ./install.vpn.sh
+
+🔐 "How to add system users for login/password authentication" — sudo adduser username
+📱 "How to import .ovpn config into clients" — for Windows/macOS/Android/iOS
