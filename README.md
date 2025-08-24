@@ -21,7 +21,7 @@ This project provides a fully automated script to install and configure a secure
 1. **Download the script:**
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/openVPN/main/install.vpn.sh
+wget https://raw.githubusercontent.com/chakra-ai-ux/openVPN/main/install.vpn.sh
 chmod +x install.vpn.sh
 Run the installer as root:
 sudo ./install.vpn.sh
